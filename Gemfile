@@ -65,3 +65,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Bootstrap 5
+gem 'bootstrap', '~> 5.3.3'
+
+# Use Sass to process CSS
+gem 'sassc-rails'
